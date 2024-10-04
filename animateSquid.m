@@ -2,6 +2,8 @@ function animateSquid ()
 
 [imageHeight,imageWidth]=drawOcean("OceanImage.png")
 
+
+
 width=3;
 size=50;
 radius=20;
